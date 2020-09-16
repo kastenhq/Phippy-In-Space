@@ -8,7 +8,7 @@ Join them on their adventure, as they journey to Mars and brainstorm solutions.
 
 [**Download it now!**](https://github.com/kastenhq/phippy-in-space/blob/main/Phippy%20in%20Space%20-%20Adventures%20in%20Cloud-Native%20Recovery.pdf)
 
-## Credits
+### Credits
 
 Brought to you by [Kasten](https://www.kasten.io)
 
