@@ -1,4 +1,4 @@
-![Phippy In space Cover](https://github.com/kastenhq/Phippy-In-Space/raw/main/Phippy%20In%20Space%20-%20Cover.png)
+[![Phippy In space Cover](https://github.com/kastenhq/Phippy-In-Space/raw/main/Phippy%20In%20Space%20-%20Cover.png)](https://github.com/kastenhq/phippy-in-space/blob/main/Phippy%20in%20Space%20-%20Adventures%20in%20Cloud-Native%20Recovery.pdf)
 
 ## Phippy In Space: Adventures in Cloud-Native Recovery
 
@@ -6,7 +6,7 @@ In the not-so-distant future, space outposts (cloud-native infrastructure) are t
  
 Join them on their adventure, as they journey to Mars and brainstorm solutions.
 
-Download it now - [Phippy In Space!](https://github.com/kastenhq/phippy-in-space/blob/main/Phippy%20in%20Space%20-%20Adventures%20in%20Cloud-Native%20Recovery.pdf)
+[**Download it now!**](https://github.com/kastenhq/phippy-in-space/blob/main/Phippy%20in%20Space%20-%20Adventures%20in%20Cloud-Native%20Recovery.pdf)
 
 ## Credits
 
