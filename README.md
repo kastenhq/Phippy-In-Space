@@ -1,5 +1,13 @@
 # Phippy In Space: Adventures in Cloud-Native Recovery
 
+In the not-so-distant future… space outposts (cloud-native infrastructure) are the next frontier for settlement and Captain Kube is in charge of the cutting-edge Mars outpost. As the outpost has grown in size and complexity, Captain Kube needs to find solutions for many of the settlement’s growing pains. He has recruited Phippy to work with him on the outpost’s Day 2 challenges.
+ 
+Join them on their adventure, as they journey to Mars and brainstorm solution.
+
+Download it now - [Phippy In Space!](https://github.com/kastenhq/phippy-in-space/blob/main/Phippy%20in%20Space%20-%20Adventures%20in%20Cloud-Native%20Recovery.pdf)
+
+## Credits
+
 Brought to you by [Kasten](https://www.kasten.io)
 
 Story and Art by: Citlali Tolia & Yuiza Turey Martínez Rivera
